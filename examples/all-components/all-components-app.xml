@@ -33,8 +33,8 @@
     <customUpdateUI>false</customUpdateUI>
     <allowBrowserInvocation>false</allowBrowserInvocation>
     <icon>
-        <image72x72>assets/icons/ipad-icon-sketch.png</image72x72>
-        <image144x144>assets/icons/ipad-icon-sketch@2x.png</image144x144>
+        <image72x72>_assets/icons/ipad-icon-sketch.png</image72x72>
+        <image144x144>_assets/icons/ipad-icon-sketch@2x.png</image144x144>
     </icon>
     <iPhone>
         <requestedDisplayResolution>high</requestedDisplayResolution>
