@@ -1,0 +1,15 @@
+<macromedia-extension name="Swipe Through" version="1.0" type="Library">
+    <author name="Nuthinking Ltd." />
+    <products>
+        <product name="Flash" version="9" primary="true" />
+    </products>
+    <description>
+        <![CDATA[Draggable components for rapid prototyping]]>
+    </description>
+    <ui-access>
+        <![CDATA[window - Components (ctrl+f7)]]>
+    </ui-access>
+    <files>
+        <file name="swipe-through.fla" destination="$flash/Components" />
+    </files>
+</macromedia-extension>

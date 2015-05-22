@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_fla graphics/circle" itemID="555dceed-000001cd" symbolType="graphic" lastModified="1432211181">
+  <timeline>
+    <DOMTimeline name="circle">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!127 -128S2[180 -75 180 -1!180 -1[180 74 127 126!127 126[74 179 0 179!0 179[-74 179 -127 126!-127 126[-180 74 -180 -1!-180 -1[-180 -75 -127 -128!-127 -128[-74 -181 0 -181!0 -181[74 -181 127 -128"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

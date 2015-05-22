@@ -1,0 +1,255 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_fla graphics/slider-movie" itemID="51f14daa-0000028a" lastModified="1432303345" lastUniqueIdentifier="7">
+  <timeline>
+    <DOMTimeline name="slider-movie">
+      <layers>
+        <DOMLayer name="Layer 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="61" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();
+
+var initied:Boolean;
+
+if(!initied){
+	gotoAndStop(31);
+	initied = true;
+}]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="61" keyMode="9728">
+              <elements>
+                <DOMComponentInstance libraryItemName="SliderArea" selected="true" centerPoint3DX="235.65" centerPoint3DY="30.5" uniqueID="7">
+                  <matrix>
+                    <Matrix a="4.27299499511719" d="0.80999755859375" tx="22" ty="-10"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='Scene 1' oldCopiedComponentPath='1.7'>
+</component>
+]]></dataBindingXML>
+                  <parametersAsXML><![CDATA[   <property id="margin">
+      <Inspectable name="Border margin" variable="margin" category="" verbose="0" defaultValue="40" type="Number"/>
+   </property>
+   <property id="enabled">
+      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="fromFrame">
+      <Inspectable name="From Frame" variable="fromFrame" category="" verbose="0" defaultValue="1" type="String"/>
+   </property>
+   <property id="orientation">
+      <Inspectable name="Orientation" variable="orientation" category="" verbose="0" defaultValue="horizontal" enumeration="horizontal,vertical" type="List"/>
+   </property>
+   <property id="snapPositions">
+      <Inspectable name="Snap Positions" variable="snapPositions" category="" verbose="0" defaultValue="0,0.25,0.5,0.75,1" type="Array"/>
+   </property>
+   <property id="toFrame">
+      <Inspectable name="To Frame" variable="toFrame" category="" verbose="0" defaultValue="" type="String"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                </DOMComponentInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 7" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" duration="60" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_fla graphics/circle border" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="62.55" ty="31"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="60" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_fla graphics/circle border" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="401.55" ty="31"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 8" color="#FF4F4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_fla graphics/circle" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="63.5" ty="31.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="14" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_fla graphics/circle" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="148.05" ty="31.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" duration="14" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="30" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_fla graphics/circle" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="232.6" ty="31.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" duration="14" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="45" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_fla graphics/circle" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="317.15" ty="31.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="46" duration="14" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="60" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_fla graphics/circle" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="401.7" ty="31.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#808080">
+          <frames>
+            <DOMFrame index="0" duration="61" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_fla graphics/arrow" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="462.35" ty="30.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-13"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="_fla graphics/arrow" symbolType="graphic" centerPoint3DX="13" centerPoint3DY="31" loop="loop">
+                  <matrix>
+                    <Matrix a="-1" d="-1" ty="31"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-13"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="_fla graphics/circle" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="63.5" ty="31.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="_fla graphics/circle" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="401.7" ty="31.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="_fla graphics/circle" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="317.15" ty="31.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="_fla graphics/circle" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="232.6" ty="31.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="_fla graphics/circle" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="148.05" ty="31.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

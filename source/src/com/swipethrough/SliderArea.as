@@ -108,7 +108,7 @@ package com.swipethrough
 				
 			}
 			position = Math.max(0, Math.min(1, position));
-			trace("position: " + position);
+//			trace("position: " + position);
 			var frame : int = initialGestureFrame + Math.round((finalGestureFrame-initialGestureFrame)*position);
 			parentTimeline.gotoAndStop(frame);
 			lastPosition = position;

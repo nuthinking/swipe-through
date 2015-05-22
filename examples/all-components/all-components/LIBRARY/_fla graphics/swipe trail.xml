@@ -1,0 +1,35 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_fla graphics/swipe trail" itemID="555dd324-000001f6" symbolType="graphic" lastModified="1432212260">
+  <timeline>
+    <DOMTimeline name="swipe trail">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <DashedStroke dash1="10" dash2="39" scaleMode="normal" weight="18">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </DashedStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-7402 0S4|-1021 0"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="_fla graphics/arrow" selected="true" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point x="-13"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

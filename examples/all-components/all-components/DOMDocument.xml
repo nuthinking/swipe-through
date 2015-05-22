@@ -1,0 +1,1286 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1024" height="768" frameRate="60" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Macintosh" versionInfo="Saved by Adobe Flash Macintosh 12.0 build 537" majorVersion="12" buildNumber="537" viewAngle3D="88.2079048186946" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
+     <folders>
+          <DOMFolderItem name="_fla graphics" itemID="555f35bc-000002df"/>
+          <DOMFolderItem name="Swipe Through Assets" itemID="555dcbf7-000001a3"/>
+          <DOMFolderItem name="Swipe Through Assets/_private" itemID="51c9fb5b-00001359"/>
+          <DOMFolderItem name="Swipe Through Assets/Skins" itemID="51c9c02f-00000e95"/>
+     </folders>
+     <media>
+          <DOMBitmapItem name="_fla graphics/bg.png" itemID="555dbcde-0000019e" sourceExternalFilepath="./LIBRARY/_fla graphics/bg.png" sourceLastImported="1432210359" sourcePlatform="macintosh" externalFileCRC32="3323894817" externalFileSize="1078094" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_fla graphics/bg.png" bitmapDataHRef="M 3 1432303037.dat" frameRight="20480" frameBottom="15360"/>
+          <DOMCompiledClipItem name="Swipe Through Assets/_private/DragAreaShim SWF" itemID="555f30bb-000002a8" linkageExportForAS="true" linkageClassName="DragAreaShim" sourceLastImported="1432301753" sourcePlatform="macintosh" displayAsComponent="false" customIconID="0" actionscriptClass="DragAreaShim" swfScmHRef="4GZ73OR74K.swf" swfScmSourceFilename="/Users/christian/Library/Application Support/Adobe/Flash CS6/en_US/Configuration/TMP4GF7COR73V..swf" persistLivePreview11="true" livePreview11ScmHRef="4GZ73OR74K3.swf" livePreview11ScmSourceFilename="/Users/christian/Library/Application Support/Adobe/Flash CS6/en_US/Configuration/TMP4GF7COR73V..swf" editFrameIndex="1" requiredMinimumPlayerVersion="0" requiredMinimumASVersion="0" parametersAreLocked="true" swcPath="Swipe Through Assets/_private/DragAreaShim SWF.xml" rootSymbolLinkageID="DragAreaShim" playerVersion="9" actionscriptVersion="3" hashKey="YnkMa2pIGJaOuJrMg.UfE.">
+               <classProperties><![CDATA[<component id="DragAreaShim" class="DragAreaShim" modified="1432301753990">
+<movieBounds xmin="0" xmax="0" ymin="0" ymax="0" />
+<classDefs>
+	<classDef id="TapAreaShim"/>
+	<classDef id="fl.controls.LabelButton"/>
+	<classDef id="com.swipethrough.GestureAreaBase"/>
+	<classDef id="fl.controls.Button"/>
+	<classDef id="com.swipethrough.LongPressArea"/>
+	<classDef id="fl.events.ComponentEvent"/>
+	<classDef id="PinchAreaShim"/>
+	<classDef id="com.swipethrough.PinchArea"/>
+	<classDef id="com.swipethrough.DragArea"/>
+	<classDef id="com.swipethrough.ControlAreaBase"/>
+	<classDef id="fl.core.UIComponent"/>
+	<classDef id="fl.controls.BaseButton"/>
+	<classDef id="SliderAreaShim"/>
+	<classDef id="com.swipethrough.TapArea"/>
+	<classDef id="LongPressAreaShim"/>
+	<classDef id="fl.livepreview.LivePreviewParent"/>
+	<classDef id="fl.managers.IFocusManagerComponent"/>
+	<classDef id="com.swipethrough.SliderArea"/>
+	<classDef id="fl.managers.IFocusManagerGroup"/>
+	<classDef id="DragAreaShim"/>
+	<classDef id="fl.managers.FocusManager"/>
+	<classDef id="fl.managers.IFocusManager"/>
+	<classDef id="fl.core.InvalidationType"/>
+	<classDef id="fl.transitions.TweenEvent"/>
+	<classDef id="SwipeThroughArea"/>
+	<classDef id="fl.motion.easing.Quadratic"/>
+	<classDef id="fl.transitions.Tween"/>
+	<classDef id="fl.controls.ButtonLabelPlacement"/>
+	<classDef id="fl.managers.StyleManager"/>
+</classDefs>
+<class id="DragAreaShim" >
+	<method id="DragAreaShim" isConstructor="true" isProperty="false">
+	</method>
+</class></component>
+]]></classProperties>
+               <customIcon>
+                    <CustomIcon rowByteCount="72" colorDepth="32" width="18" height="18" frameRight="360" frameBottom="360" isTransparent="true" href="4GZ74OR74K.dat"/>
+               </customIcon>
+               <SwcItem name="DragAreaShim" version="1432301753" isTopLevel="true"/>
+          </DOMCompiledClipItem>
+          <DOMBitmapItem name="_fla graphics/layout.png" itemID="555dcc3e-000001a8" sourceExternalFilepath="./LIBRARY/_fla graphics/layout.png" sourceLastImported="1432210323" sourcePlatform="macintosh" externalFileSize="1080888" originalCompressionType="lossless" quality="50" href="_fla graphics/layout.png" bitmapDataHRef="M 2 1432303037.dat" frameRight="20480" frameBottom="15360"/>
+          <DOMCompiledClipItem name="Swipe Through Assets/_private/LongPressAreaShim SWF" itemID="555f30ea-000002b8" linkageExportForAS="true" linkageClassName="LongPressAreaShim" sourceLastImported="1432301801" sourcePlatform="macintosh" displayAsComponent="false" customIconID="0" actionscriptClass="LongPressAreaShim" swfScmHRef="4I0W2OR75X.swf" swfScmSourceFilename="/Users/christian/Library/Application Support/Adobe/Flash CS6/en_US/Configuration/TMP4HFQ1OR756..swf" persistLivePreview11="true" livePreview11ScmHRef="4I0W2OR75X5.swf" livePreview11ScmSourceFilename="/Users/christian/Library/Application Support/Adobe/Flash CS6/en_US/Configuration/TMP4HFQ1OR756..swf" editFrameIndex="1" requiredMinimumPlayerVersion="0" requiredMinimumASVersion="0" parametersAreLocked="true" swcPath="Swipe Through Assets/_private/LongPressAreaShim SWF.xml" rootSymbolLinkageID="LongPressAreaShim" playerVersion="9" actionscriptVersion="3" hashKey="Kf1R3GdRfdLi7TuhJzwbM/">
+               <classProperties><![CDATA[<component id="LongPressAreaShim" class="LongPressAreaShim" modified="1432301801466">
+<movieBounds xmin="0" xmax="0" ymin="0" ymax="0" />
+<classDefs>
+	<classDef id="TapAreaShim"/>
+	<classDef id="fl.controls.LabelButton"/>
+	<classDef id="com.swipethrough.GestureAreaBase"/>
+	<classDef id="fl.controls.Button"/>
+	<classDef id="com.swipethrough.LongPressArea"/>
+	<classDef id="fl.events.ComponentEvent"/>
+	<classDef id="PinchAreaShim"/>
+	<classDef id="com.swipethrough.PinchArea"/>
+	<classDef id="com.swipethrough.DragArea"/>
+	<classDef id="com.swipethrough.ControlAreaBase"/>
+	<classDef id="fl.core.UIComponent"/>
+	<classDef id="fl.controls.BaseButton"/>
+	<classDef id="SliderAreaShim"/>
+	<classDef id="com.swipethrough.TapArea"/>
+	<classDef id="LongPressAreaShim"/>
+	<classDef id="fl.livepreview.LivePreviewParent"/>
+	<classDef id="fl.managers.IFocusManagerComponent"/>
+	<classDef id="com.swipethrough.SliderArea"/>
+	<classDef id="fl.managers.IFocusManagerGroup"/>
+	<classDef id="DragAreaShim"/>
+	<classDef id="fl.managers.FocusManager"/>
+	<classDef id="fl.managers.IFocusManager"/>
+	<classDef id="fl.core.InvalidationType"/>
+	<classDef id="fl.transitions.TweenEvent"/>
+	<classDef id="SwipeThroughArea"/>
+	<classDef id="fl.motion.easing.Quadratic"/>
+	<classDef id="fl.transitions.Tween"/>
+	<classDef id="fl.controls.ButtonLabelPlacement"/>
+	<classDef id="fl.managers.StyleManager"/>
+</classDefs>
+<class id="LongPressAreaShim" >
+	<method id="LongPressAreaShim" isConstructor="true" isProperty="false">
+	</method>
+</class></component>
+]]></classProperties>
+               <customIcon>
+                    <CustomIcon rowByteCount="72" colorDepth="32" width="18" height="18" frameRight="360" frameBottom="360" isTransparent="true" href="4I0W2OR75X6.dat"/>
+               </customIcon>
+               <SwcItem name="LongPressAreaShim" version="1432301801" isTopLevel="true"/>
+          </DOMCompiledClipItem>
+          <DOMCompiledClipItem name="Swipe Through Assets/_private/PinchAreaShim SWF" itemID="555f3111-000002c8" linkageExportForAS="true" linkageClassName="PinchAreaShim" sourceLastImported="1432301840" sourcePlatform="macintosh" displayAsComponent="false" customIconID="0" actionscriptClass="PinchAreaShim" swfScmHRef="4IRHSOR76W.swf" swfScmSourceFilename="/Users/christian/Library/Application Support/Adobe/Flash CS6/en_US/Configuration/TMP4I9S7OR769..swf" persistLivePreview11="true" livePreview11ScmHRef="4IRHSOR76W7.swf" livePreview11ScmSourceFilename="/Users/christian/Library/Application Support/Adobe/Flash CS6/en_US/Configuration/TMP4I9S7OR769..swf" editFrameIndex="1" requiredMinimumPlayerVersion="0" requiredMinimumASVersion="0" parametersAreLocked="true" swcPath="Swipe Through Assets/_private/PinchAreaShim SWF.xml" rootSymbolLinkageID="PinchAreaShim" playerVersion="9" actionscriptVersion="3" hashKey="MKox6zto5M5FLD0FHGhLe1">
+               <classProperties><![CDATA[<component id="PinchAreaShim" class="PinchAreaShim" modified="1432301840472">
+<movieBounds xmin="0" xmax="0" ymin="0" ymax="0" />
+<classDefs>
+	<classDef id="TapAreaShim"/>
+	<classDef id="fl.controls.LabelButton"/>
+	<classDef id="com.swipethrough.GestureAreaBase"/>
+	<classDef id="fl.controls.Button"/>
+	<classDef id="com.swipethrough.LongPressArea"/>
+	<classDef id="fl.events.ComponentEvent"/>
+	<classDef id="PinchAreaShim"/>
+	<classDef id="com.swipethrough.PinchArea"/>
+	<classDef id="com.swipethrough.DragArea"/>
+	<classDef id="com.swipethrough.ControlAreaBase"/>
+	<classDef id="fl.core.UIComponent"/>
+	<classDef id="fl.controls.BaseButton"/>
+	<classDef id="SliderAreaShim"/>
+	<classDef id="com.swipethrough.TapArea"/>
+	<classDef id="LongPressAreaShim"/>
+	<classDef id="fl.livepreview.LivePreviewParent"/>
+	<classDef id="fl.managers.IFocusManagerComponent"/>
+	<classDef id="com.swipethrough.SliderArea"/>
+	<classDef id="fl.managers.IFocusManagerGroup"/>
+	<classDef id="DragAreaShim"/>
+	<classDef id="fl.managers.FocusManager"/>
+	<classDef id="fl.managers.IFocusManager"/>
+	<classDef id="fl.core.InvalidationType"/>
+	<classDef id="fl.transitions.TweenEvent"/>
+	<classDef id="SwipeThroughArea"/>
+	<classDef id="fl.motion.easing.Quadratic"/>
+	<classDef id="fl.transitions.Tween"/>
+	<classDef id="fl.controls.ButtonLabelPlacement"/>
+	<classDef id="fl.managers.StyleManager"/>
+</classDefs>
+<class id="PinchAreaShim" >
+	<method id="PinchAreaShim" isConstructor="true" isProperty="false">
+	</method>
+</class></component>
+]]></classProperties>
+               <customIcon>
+                    <CustomIcon rowByteCount="72" colorDepth="32" width="18" height="18" frameRight="360" frameBottom="360" isTransparent="true" href="4IRHSOR76W8.dat"/>
+               </customIcon>
+               <SwcItem name="PinchAreaShim" version="1432301840" isTopLevel="true"/>
+          </DOMCompiledClipItem>
+          <DOMCompiledClipItem name="Swipe Through Assets/_private/SliderAreaShim SWF" itemID="555f3130-000002d8" linkageExportForAS="true" linkageClassName="SliderAreaShim" sourceExternalFilepath="./LIBRARY/Swipe Through Assets/_private/SliderAreaShim SWF" sourceLastImported="1432301872" sourcePlatform="macintosh" displayAsComponent="false" customIconID="0" actionscriptClass="SliderAreaShim" swfScmHRef="4JMCWOR780.swf" swfScmSourceFilename="/Users/christian/Library/Application Support/Adobe/Flash CS6/en_US/Configuration/TMP4IY6GOR774..swf" persistLivePreview11="true" livePreview11ScmHRef="4JMCWOR78010.swf" livePreview11ScmSourceFilename="/Users/christian/Library/Application Support/Adobe/Flash CS6/en_US/Configuration/TMP4IY6FOR774..swf" editFrameIndex="1" requiredMinimumPlayerVersion="0" requiredMinimumASVersion="0" parametersAreLocked="true" swcPath="Swipe Through Assets/_private/SliderAreaShim SWF.xml" rootSymbolLinkageID="SliderAreaShim" playerVersion="9" actionscriptVersion="3" hashKey="nWO59pPwiR4ZjBflpRWl61">
+               <classProperties><![CDATA[<component id="SliderAreaShim" class="SliderAreaShim" modified="1432301872067">
+<movieBounds xmin="0" xmax="0" ymin="0" ymax="0" />
+<classDefs>
+	<classDef id="TapAreaShim"/>
+	<classDef id="fl.controls.LabelButton"/>
+	<classDef id="com.swipethrough.GestureAreaBase"/>
+	<classDef id="fl.controls.Button"/>
+	<classDef id="com.swipethrough.LongPressArea"/>
+	<classDef id="fl.events.ComponentEvent"/>
+	<classDef id="PinchAreaShim"/>
+	<classDef id="com.swipethrough.PinchArea"/>
+	<classDef id="com.swipethrough.DragArea"/>
+	<classDef id="com.swipethrough.ControlAreaBase"/>
+	<classDef id="fl.core.UIComponent"/>
+	<classDef id="fl.controls.BaseButton"/>
+	<classDef id="SliderAreaShim"/>
+	<classDef id="com.swipethrough.TapArea"/>
+	<classDef id="LongPressAreaShim"/>
+	<classDef id="fl.livepreview.LivePreviewParent"/>
+	<classDef id="fl.managers.IFocusManagerComponent"/>
+	<classDef id="com.swipethrough.SliderArea"/>
+	<classDef id="fl.managers.IFocusManagerGroup"/>
+	<classDef id="DragAreaShim"/>
+	<classDef id="fl.managers.FocusManager"/>
+	<classDef id="fl.managers.IFocusManager"/>
+	<classDef id="fl.core.InvalidationType"/>
+	<classDef id="fl.transitions.TweenEvent"/>
+	<classDef id="SwipeThroughArea"/>
+	<classDef id="fl.motion.easing.Quadratic"/>
+	<classDef id="fl.transitions.Tween"/>
+	<classDef id="fl.controls.ButtonLabelPlacement"/>
+	<classDef id="fl.managers.StyleManager"/>
+</classDefs>
+<class id="SliderAreaShim" >
+	<method id="SliderAreaShim" isConstructor="true" isProperty="false">
+	</method>
+</class></component>
+]]></classProperties>
+               <customIcon>
+                    <CustomIcon rowByteCount="72" colorDepth="32" width="18" height="18" frameRight="360" frameBottom="360" isTransparent="true" href="4JMCWOR78011.dat"/>
+               </customIcon>
+               <SwcItem name="SliderAreaShim" version="1432301872" isTopLevel="true"/>
+          </DOMCompiledClipItem>
+          <DOMCompiledClipItem name="Swipe Through Assets/_private/TapAreaShim SWF" itemID="555f2fe2-00000285" linkageExportForAS="true" linkageClassName="TapAreaShim" sourceLastImported="1432301537" sourcePlatform="macintosh" displayAsComponent="false" customIconID="0" actionscriptClass="TapAreaShim" swfScmHRef="4CDJTOR6YM.swf" swfScmSourceFilename="/Users/christian/Library/Application Support/Adobe/Flash CS6/en_US/Configuration/TMP4BS0AOR6XU..swf" persistLivePreview11="true" livePreview11ScmHRef="4CDJTOR6YM1.swf" livePreview11ScmSourceFilename="/Users/christian/Library/Application Support/Adobe/Flash CS6/en_US/Configuration/TMP4BS09OR6XU..swf" editFrameIndex="1" requiredMinimumPlayerVersion="0" requiredMinimumASVersion="0" parametersAreLocked="true" swcPath="Swipe Through Assets/_private/TapAreaShim SWF.xml" rootSymbolLinkageID="TapAreaShim" playerVersion="9" actionscriptVersion="3" hashKey="VrVrye3U.kn0toUtIT7u.1">
+               <classProperties><![CDATA[<component id="TapAreaShim" class="TapAreaShim" modified="1432301537303">
+<movieBounds xmin="0" xmax="0" ymin="0" ymax="0" />
+<classDefs>
+	<classDef id="TapAreaShim"/>
+	<classDef id="fl.controls.LabelButton"/>
+	<classDef id="com.swipethrough.GestureAreaBase"/>
+	<classDef id="fl.controls.Button"/>
+	<classDef id="com.swipethrough.LongPressArea"/>
+	<classDef id="fl.events.ComponentEvent"/>
+	<classDef id="com.swipethrough.PinchArea"/>
+	<classDef id="com.swipethrough.DragArea"/>
+	<classDef id="com.swipethrough.ControlAreaBase"/>
+	<classDef id="fl.controls.BaseButton"/>
+	<classDef id="fl.core.UIComponent"/>
+	<classDef id="com.swipethrough.TapArea"/>
+	<classDef id="fl.livepreview.LivePreviewParent"/>
+	<classDef id="fl.managers.IFocusManagerComponent"/>
+	<classDef id="com.swipethrough.SliderArea"/>
+	<classDef id="fl.managers.IFocusManagerGroup"/>
+	<classDef id="fl.managers.FocusManager"/>
+	<classDef id="fl.managers.IFocusManager"/>
+	<classDef id="fl.core.InvalidationType"/>
+	<classDef id="SwipeThroughArea"/>
+	<classDef id="fl.transitions.TweenEvent"/>
+	<classDef id="fl.motion.easing.Quadratic"/>
+	<classDef id="fl.transitions.Tween"/>
+	<classDef id="fl.controls.ButtonLabelPlacement"/>
+	<classDef id="fl.managers.StyleManager"/>
+</classDefs>
+<class id="TapAreaShim" >
+	<method id="TapAreaShim" isConstructor="true" isProperty="false">
+	</method>
+</class></component>
+]]></classProperties>
+               <customIcon>
+                    <CustomIcon rowByteCount="72" colorDepth="32" width="18" height="18" frameRight="360" frameBottom="360" isTransparent="true" href="4CDJTOR6YM2.dat"/>
+               </customIcon>
+               <SwcItem name="TapAreaShim" version="1432301537" isTopLevel="true"/>
+          </DOMCompiledClipItem>
+     </media>
+     <symbols>
+          <Include href="_fla graphics/arrow.xml" itemIcon="1" loadImmediate="false" itemID="555dce20-000001c3" lastModified="1432301542"/>
+          <Include href="_fla graphics/circle.xml" itemIcon="1" loadImmediate="false" itemID="555dceed-000001cd" lastModified="1432211181"/>
+          <Include href="_fla graphics/circle border.xml" itemIcon="1" loadImmediate="false" itemID="555dcd26-000001bc" lastModified="1432211268"/>
+          <Include href="_fla graphics/rect.xml" itemIcon="1" loadImmediate="false" itemID="555dd3b2-00000202" lastModified="1432212402"/>
+          <Include href="_fla graphics/slider-movie.xml" loadImmediate="false" itemID="51f14daa-0000028a" lastModified="1432303345"/>
+          <Include href="_fla graphics/swipe trail.xml" itemIcon="1" loadImmediate="false" itemID="555dd324-000001f6" lastModified="1432212260"/>
+          <Include href="DragArea.xml" itemID="51ca8e98-00001371" lastModified="1432301807"/>
+          <Include href="LongPressArea.xml" itemID="5298e236-00000cfb" lastModified="1432301846"/>
+          <Include href="PinchArea.xml" itemID="51d14f50-00000316" lastModified="1432301876"/>
+          <Include href="SliderArea.xml" itemID="51f14e52-00000297" lastModified="1432301911"/>
+          <Include href="Swipe Through Assets/_private/SwipeThroughAvatar.xml" loadImmediate="false" itemID="555deec9-00000576" lastModified="1432219337"/>
+          <Include href="Swipe Through Assets/Skins/SwipeThroughArea.xml" itemID="555dafe3-00000199" lastModified="1432203235"/>
+          <Include href="TapArea.xml" itemID="51c97bc4-000000eb" lastModified="1432301607"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Actions" color="#4FFFFF" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="30" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();
+//Multitouch.inputMode = MultitouchInputMode.GESTURE;]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="30" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[gotoAndStop(1);]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="31" duration="40" name="dragBegin" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="71" duration="45" name="dragEnd" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="116" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[gotoAndStop(1);]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="117" duration="30" name="dragTapBegin" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="147" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[gotoAndStop(1);]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="148" duration="40" name="zoomBegin" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="188" duration="50" name="zoomEnd" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="238" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[gotoAndStop(1);]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="239" duration="30" name="zoomTapBegin" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="269" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[gotoAndStop(1);]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="270" duration="60" name="longBegin" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="330" duration="44" name="longEnd" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="374" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[gotoAndStop(1);]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="375" duration="30" name="longTapBegin" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="405" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[gotoAndStop(1);]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Areas" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="406" keyMode="9728">
+                                   <elements>
+                                        <DOMComponentInstance libraryItemName="TapArea" centerPoint3DX="312.6" centerPoint3DY="170.3" uniqueID="5">
+                                             <matrix>
+                                                  <Matrix tx="262.6" ty="120.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="50" y="50"/>
+                                             </transformationPoint>
+                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='Scene 1' oldCopiedComponentPath='5'>
+</component>
+]]></dataBindingXML>
+                                             <parametersAsXML><![CDATA[   <property id="action">
+      <Inspectable name="Action" variable="action" category="" verbose="0" defaultValue="play" type="String"/>
+   </property>
+   <property id="enabled">
+      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="tapsRequired">
+      <Inspectable name="Taps Required" variable="tapsRequired" category="" verbose="0" defaultValue="1" type="Number"/>
+   </property>
+   <property id="touchesRequired">
+      <Inspectable name="Touches Required" variable="touchesRequired" category="" verbose="0" defaultValue="1" type="Number"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                                        </DOMComponentInstance>
+                                        <DOMComponentInstance libraryItemName="LongPressArea" centerPoint3DX="506.75" centerPoint3DY="170.3" uniqueID="7">
+                                             <matrix>
+                                                  <Matrix tx="456.75" ty="120.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="50" y="50"/>
+                                             </transformationPoint>
+                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='Scene 1' oldCopiedComponentPath='7'>
+</component>
+]]></dataBindingXML>
+                                             <parametersAsXML><![CDATA[   <property id="enabled">
+      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="fromFrame">
+      <Inspectable name="From Frame" variable="fromFrame" category="" verbose="0" defaultValue="longBegin" type="String"/>
+   </property>
+   <property id="returnToHome">
+      <Inspectable name="Return Home" variable="returnToHome" category="" verbose="0" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="tapAction">
+      <Inspectable name="Tap Action" variable="tapAction" category="" verbose="0" defaultValue="gotoAndPlay(longTapBegin)" type="String"/>
+   </property>
+   <property id="toFrame">
+      <Inspectable name="To Frame" variable="toFrame" category="" verbose="0" defaultValue="longEnd" type="String"/>
+   </property>
+   <property id="touchesRequired">
+      <Inspectable name="Touches Required" variable="touchesRequired" category="" verbose="0" defaultValue="1" type="Number"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                                        </DOMComponentInstance>
+                                        <DOMComponentInstance libraryItemName="PinchArea" centerPoint3DX="712.9" centerPoint3DY="170.3" uniqueID="9">
+                                             <matrix>
+                                                  <Matrix tx="662.9" ty="120.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="50" y="50"/>
+                                             </transformationPoint>
+                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='Scene 1' oldCopiedComponentPath='9'>
+</component>
+]]></dataBindingXML>
+                                             <parametersAsXML><![CDATA[   <property id="enabled">
+      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="fromFrame">
+      <Inspectable name="From Frame" variable="fromFrame" category="" verbose="0" defaultValue="zoomBegin" type="String"/>
+   </property>
+   <property id="gestureSize">
+      <Inspectable name="Gesture Size (%)" variable="gestureSize" category="" verbose="0" defaultValue="1.5" type="Number"/>
+   </property>
+   <property id="gestureThreshold">
+      <Inspectable name="Gesture Threshold (%)" variable="gestureThreshold" category="" verbose="0" defaultValue="0.5" type="Number"/>
+   </property>
+   <property id="hintDuration">
+      <Inspectable name="Hint Duration (fr)" variable="hintDuration" category="" verbose="0" defaultValue="10" type="Number"/>
+   </property>
+   <property id="returnToHome">
+      <Inspectable name="Return Home" variable="returnToHome" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="tapAction">
+      <Inspectable name="Tap Action" variable="tapAction" category="" verbose="0" defaultValue="gotoAndPlay(zoomTapBegin)" type="String"/>
+   </property>
+   <property id="toFrame">
+      <Inspectable name="To Frame" variable="toFrame" category="" verbose="0" defaultValue="zoomEnd" type="String"/>
+   </property>
+   <property id="touchesRequired">
+      <Inspectable name="Touches Required" variable="touchesRequired" category="" verbose="0" defaultValue="1" type="Number"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                                        </DOMComponentInstance>
+                                        <DOMComponentInstance libraryItemName="DragArea" centerPoint3DX="514.6" centerPoint3DY="414.6" uniqueID="11">
+                                             <matrix>
+                                                  <Matrix a="5.03999328613281" tx="262.6" ty="364.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='Scene 1' oldCopiedComponentPath='11'>
+</component>
+]]></dataBindingXML>
+                                             <parametersAsXML><![CDATA[   <property id="direction">
+      <Inspectable name="Direction" variable="direction" category="" verbose="0" defaultValue="right" enumeration="any,up,right,down,left,horizontal,vertical" type="List"/>
+   </property>
+   <property id="enabled">
+      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="fromFrame">
+      <Inspectable name="From Frame" variable="fromFrame" category="" verbose="0" defaultValue="dragBegin" type="String"/>
+   </property>
+   <property id="gestureSize">
+      <Inspectable name="Gesture Size (px)" variable="gestureSize" category="" verbose="0" defaultValue="400" type="Number"/>
+   </property>
+   <property id="gestureThreshold">
+      <Inspectable name="Gesture Threshold (%)" variable="gestureThreshold" category="" verbose="0" defaultValue="0.5" type="Number"/>
+   </property>
+   <property id="hintDuration">
+      <Inspectable name="Hint Duration (fr)" variable="hintDuration" category="" verbose="0" defaultValue="10" type="Number"/>
+   </property>
+   <property id="returnToHome">
+      <Inspectable name="Return Home" variable="returnToHome" category="" verbose="0" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="tapAction">
+      <Inspectable name="Tap Action" variable="tapAction" category="" verbose="0" defaultValue="gotoAndPlay(dragTapBegin)" type="String"/>
+   </property>
+   <property id="toFrame">
+      <Inspectable name="To Frame" variable="toFrame" category="" verbose="0" defaultValue="dragEnd" type="String"/>
+   </property>
+   <property id="touchesRequired">
+      <Inspectable name="Touches Required" variable="touchesRequired" category="" verbose="0" defaultValue="1" type="Number"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                                        </DOMComponentInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Slide" color="#4FFF4F" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="406" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/slider-movie" centerPoint3DX="741.85" centerPoint3DY="669.25">
+                                             <matrix>
+                                                  <Matrix tx="279.75" ty="628.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 2" color="#9933CC">
+                         <frames>
+                              <DOMFrame index="0" duration="188" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="188" duration="30" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/circle" selected="true" symbolType="graphic" centerPoint3DX="712.9" centerPoint3DY="170.3" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="0.003814697265625" d="0.003814697265625" tx="712.9" ty="170.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color tintMultiplier="1" tintColor="#FF00FF"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="218" duration="20" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="99">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/circle" selected="true" symbolType="graphic" centerPoint3DX="712.9" centerPoint3DY="170.3" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="7.35955810546875" d="7.35955810546875" tx="712.9" ty="170.55"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point y="-0.05"/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color tintMultiplier="1" tintColor="#FF00FF"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="238" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/circle" symbolType="graphic" centerPoint3DX="712.9" centerPoint3DY="170.3" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="2.44000244140625" d="2.44000244140625" tx="712.9" ty="170.4"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point y="-0.05"/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="239" duration="167" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Zoom" color="#FF800A" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="148" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/circle border" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="712.9" ty="170.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="148" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/circle border" selected="true" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="712.9" ty="170.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="158" duration="30" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/circle border" symbolType="graphic" centerPoint3DX="712.9" centerPoint3DY="170.3" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="2" d="2" tx="712.9" ty="170.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color tintMultiplier="1" tintColor="#FF00FF"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="188" duration="30" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/circle border" symbolType="graphic" centerPoint3DX="712.9" centerPoint3DY="170.3" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="3" d="3" tx="712.9" ty="170.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color tintMultiplier="1" tintColor="#FF00FF"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="218" duration="20" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/circle border" selected="true" symbolType="graphic" centerPoint3DX="712.9" centerPoint3DY="170.3" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="3" d="3" tx="712.9" ty="170.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color tintMultiplier="1" tintColor="#FF00FF"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="238" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/circle border" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="712.9" ty="170.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="239" duration="15" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/circle border" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="712.9" ty="170.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color tintMultiplier="1" tintColor="#FF00FF"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="254" duration="15" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/circle border" selected="true" symbolType="graphic" centerPoint3DX="712.9" centerPoint3DY="170.3" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="0.5" d="0.5" tx="712.9" ty="170.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color tintMultiplier="1" tintColor="#FF00FF"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="269" duration="137" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/circle border" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="712.9" ty="170.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Trail Mask" color="#FF4FFF" autoNamed="false" layerType="mask">
+                         <frames>
+                              <DOMFrame index="0" duration="41" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="41" duration="30" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/rect" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="0.0099945068359375" tx="270.05" ty="369"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="71" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/rect" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="4.00126647949219" tx="270.05" ty="369"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="72" duration="334" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Drag Trail" color="#4FFFFF" parentLayerIndex="5" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="41" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="41" duration="30" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/swipe trail" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="744.2" ty="414.1"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-185.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="71" duration="15" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/swipe trail" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="744.2" ty="414.1"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-185.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="86" duration="30" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/swipe trail" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="744.2" ty="414.1"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-185.05"/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color tintMultiplier="1" tintColor="#FF00FF"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="116" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/swipe trail" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="744.2" ty="414.1"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-185.05"/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="117" duration="289" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Drag" color="#808080" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="31" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/circle border" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="312.6" ty="414.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="31" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/circle border" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="312.6" ty="414.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="41" duration="30" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/circle border" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="312.6" ty="414.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color tintMultiplier="1" tintColor="#FF00FF"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="71" duration="15" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/circle border" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="712.6" ty="414.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color tintMultiplier="1" tintColor="#FF00FF"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="86" duration="30" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/circle border" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="712.6" ty="414.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" blueOffset="255"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="116" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/circle border" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="312.6" ty="414.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="117" duration="15" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/circle border" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="312.6" ty="414.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color tintMultiplier="1" tintColor="#FF00FF"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="132" duration="15" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="99">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/circle border" symbolType="graphic" centerPoint3DX="312.6" centerPoint3DY="414.6" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="0.5" d="0.5" tx="312.6" ty="414.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color tintMultiplier="1" tintColor="#FF00FF"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="147" duration="259" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/circle border" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="312.6" ty="414.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Hold" color="#4F80FF" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="270" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/circle border" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="506.75" ty="170.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="270" duration="60" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/circle border" selected="true" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="506.75" ty="170.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="330" duration="24" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/circle border" selected="true" symbolType="graphic" centerPoint3DX="506.75" centerPoint3DY="170.3" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="2" d="2" tx="506.75" ty="170.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color tintMultiplier="1" tintColor="#FF00FF"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="354" duration="20" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/circle border" selected="true" symbolType="graphic" centerPoint3DX="506.75" centerPoint3DY="170.3" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="2" d="2" tx="506.75" ty="170.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color tintMultiplier="1" tintColor="#00FF00"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="374" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/circle border" selected="true" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="506.75" ty="170.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="375" duration="15" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/circle border" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="506.75" ty="170.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color tintMultiplier="1" tintColor="#FF00FF"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="390" duration="15" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/circle border" selected="true" symbolType="graphic" centerPoint3DX="506.75" centerPoint3DY="170.3" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="0.5" d="0.5" tx="506.75" ty="170.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color tintMultiplier="1" tintColor="#FF00FF"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="405" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/circle border" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="506.75" ty="170.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Tap" color="#FF4F4F" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/circle border" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="312.6" ty="170.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="14" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/circle border" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="312.6" ty="170.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color tintMultiplier="1" tintColor="#FF00FF"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="15" duration="15" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/circle border" symbolType="graphic" centerPoint3DX="312.6" centerPoint3DY="170.3" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="0.5" d="0.5" tx="312.6" ty="170.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color tintMultiplier="1" tintColor="#FF00FF"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="30" duration="376" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/circle border" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="312.6" ty="170.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 9" color="#4FFF4F">
+                         <frames>
+                              <DOMFrame index="0" duration="406" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_fla graphics/swipe trail" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="744.2" ty="414.1"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-185.05"/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.5"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="layout" color="#9933CC" autoNamed="false" layerType="guide">
+                         <frames>
+                              <DOMFrame index="0" duration="406" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="_fla graphics/layout.png"/>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="bg" color="#FF800A" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="406" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="_fla graphics/bg.png"/>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <persistentData>
+          <PD n="com.air.sdk.path"/>
+     </persistentData>
+     <PrinterSettings platform="macintosh"/>
+     <publishHistory>
+          <PublishItem publishSize="1290349" publishTime="1432303671"/>
+          <PublishItem publishSize="1290348" publishTime="1432303553"/>
+          <PublishItem publishSize="1290349" publishTime="1432303531"/>
+     </publishHistory>
+     <swcCache>
+          <Swc hashKey="VrVrye3U.kn0toUtIT7u.1" href="5EQ51OR8CB.swc">
+               <classDefinitions>
+                    <ClassDefinition value="TapAreaShim"/>
+                    <ClassDefinition value="fl.controls.LabelButton"/>
+                    <ClassDefinition value="com.swipethrough.GestureAreaBase"/>
+                    <ClassDefinition value="fl.controls.Button"/>
+                    <ClassDefinition value="com.swipethrough.LongPressArea"/>
+                    <ClassDefinition value="fl.events.ComponentEvent"/>
+                    <ClassDefinition value="com.swipethrough.PinchArea"/>
+                    <ClassDefinition value="com.swipethrough.DragArea"/>
+                    <ClassDefinition value="com.swipethrough.ControlAreaBase"/>
+                    <ClassDefinition value="fl.controls.BaseButton"/>
+                    <ClassDefinition value="fl.core.UIComponent"/>
+                    <ClassDefinition value="com.swipethrough.TapArea"/>
+                    <ClassDefinition value="fl.livepreview.LivePreviewParent"/>
+                    <ClassDefinition value="fl.managers.IFocusManagerComponent"/>
+                    <ClassDefinition value="com.swipethrough.SliderArea"/>
+                    <ClassDefinition value="fl.managers.IFocusManagerGroup"/>
+                    <ClassDefinition value="fl.managers.FocusManager"/>
+                    <ClassDefinition value="fl.managers.IFocusManager"/>
+                    <ClassDefinition value="fl.core.InvalidationType"/>
+                    <ClassDefinition value="SwipeThroughArea"/>
+                    <ClassDefinition value="fl.transitions.TweenEvent"/>
+                    <ClassDefinition value="fl.motion.easing.Quadratic"/>
+                    <ClassDefinition value="fl.transitions.Tween"/>
+                    <ClassDefinition value="fl.controls.ButtonLabelPlacement"/>
+                    <ClassDefinition value="fl.managers.StyleManager"/>
+               </classDefinitions>
+          </Swc>
+          <Swc hashKey="YnkMa2pIGJaOuJrMg.UfE." href="5LUKEOR8LJ.swc">
+               <classDefinitions>
+                    <ClassDefinition value="TapAreaShim"/>
+                    <ClassDefinition value="fl.controls.LabelButton"/>
+                    <ClassDefinition value="com.swipethrough.GestureAreaBase"/>
+                    <ClassDefinition value="fl.controls.Button"/>
+                    <ClassDefinition value="com.swipethrough.LongPressArea"/>
+                    <ClassDefinition value="fl.events.ComponentEvent"/>
+                    <ClassDefinition value="PinchAreaShim"/>
+                    <ClassDefinition value="com.swipethrough.PinchArea"/>
+                    <ClassDefinition value="com.swipethrough.DragArea"/>
+                    <ClassDefinition value="com.swipethrough.ControlAreaBase"/>
+                    <ClassDefinition value="fl.core.UIComponent"/>
+                    <ClassDefinition value="fl.controls.BaseButton"/>
+                    <ClassDefinition value="SliderAreaShim"/>
+                    <ClassDefinition value="com.swipethrough.TapArea"/>
+                    <ClassDefinition value="LongPressAreaShim"/>
+                    <ClassDefinition value="fl.livepreview.LivePreviewParent"/>
+                    <ClassDefinition value="fl.managers.IFocusManagerComponent"/>
+                    <ClassDefinition value="com.swipethrough.SliderArea"/>
+                    <ClassDefinition value="fl.managers.IFocusManagerGroup"/>
+                    <ClassDefinition value="DragAreaShim"/>
+                    <ClassDefinition value="fl.managers.FocusManager"/>
+                    <ClassDefinition value="fl.managers.IFocusManager"/>
+                    <ClassDefinition value="fl.core.InvalidationType"/>
+                    <ClassDefinition value="fl.transitions.TweenEvent"/>
+                    <ClassDefinition value="SwipeThroughArea"/>
+                    <ClassDefinition value="fl.motion.easing.Quadratic"/>
+                    <ClassDefinition value="fl.transitions.Tween"/>
+                    <ClassDefinition value="fl.controls.ButtonLabelPlacement"/>
+                    <ClassDefinition value="fl.managers.StyleManager"/>
+               </classDefinitions>
+          </Swc>
+          <Swc hashKey="Kf1R3GdRfdLi7TuhJzwbM/" href="5EQ53OR8CB.swc">
+               <classDefinitions>
+                    <ClassDefinition value="TapAreaShim"/>
+                    <ClassDefinition value="fl.controls.LabelButton"/>
+                    <ClassDefinition value="com.swipethrough.GestureAreaBase"/>
+                    <ClassDefinition value="fl.controls.Button"/>
+                    <ClassDefinition value="com.swipethrough.LongPressArea"/>
+                    <ClassDefinition value="fl.events.ComponentEvent"/>
+                    <ClassDefinition value="PinchAreaShim"/>
+                    <ClassDefinition value="com.swipethrough.PinchArea"/>
+                    <ClassDefinition value="com.swipethrough.DragArea"/>
+                    <ClassDefinition value="com.swipethrough.ControlAreaBase"/>
+                    <ClassDefinition value="fl.core.UIComponent"/>
+                    <ClassDefinition value="fl.controls.BaseButton"/>
+                    <ClassDefinition value="SliderAreaShim"/>
+                    <ClassDefinition value="com.swipethrough.TapArea"/>
+                    <ClassDefinition value="LongPressAreaShim"/>
+                    <ClassDefinition value="fl.livepreview.LivePreviewParent"/>
+                    <ClassDefinition value="fl.managers.IFocusManagerComponent"/>
+                    <ClassDefinition value="com.swipethrough.SliderArea"/>
+                    <ClassDefinition value="fl.managers.IFocusManagerGroup"/>
+                    <ClassDefinition value="DragAreaShim"/>
+                    <ClassDefinition value="fl.managers.FocusManager"/>
+                    <ClassDefinition value="fl.managers.IFocusManager"/>
+                    <ClassDefinition value="fl.core.InvalidationType"/>
+                    <ClassDefinition value="fl.transitions.TweenEvent"/>
+                    <ClassDefinition value="SwipeThroughArea"/>
+                    <ClassDefinition value="fl.motion.easing.Quadratic"/>
+                    <ClassDefinition value="fl.transitions.Tween"/>
+                    <ClassDefinition value="fl.controls.ButtonLabelPlacement"/>
+                    <ClassDefinition value="fl.managers.StyleManager"/>
+               </classDefinitions>
+          </Swc>
+          <Swc hashKey="MKox6zto5M5FLD0FHGhLe1" href="5EQ56OR8CB.swc">
+               <classDefinitions>
+                    <ClassDefinition value="TapAreaShim"/>
+                    <ClassDefinition value="fl.controls.LabelButton"/>
+                    <ClassDefinition value="com.swipethrough.GestureAreaBase"/>
+                    <ClassDefinition value="fl.controls.Button"/>
+                    <ClassDefinition value="com.swipethrough.LongPressArea"/>
+                    <ClassDefinition value="fl.events.ComponentEvent"/>
+                    <ClassDefinition value="PinchAreaShim"/>
+                    <ClassDefinition value="com.swipethrough.PinchArea"/>
+                    <ClassDefinition value="com.swipethrough.DragArea"/>
+                    <ClassDefinition value="com.swipethrough.ControlAreaBase"/>
+                    <ClassDefinition value="fl.core.UIComponent"/>
+                    <ClassDefinition value="fl.controls.BaseButton"/>
+                    <ClassDefinition value="SliderAreaShim"/>
+                    <ClassDefinition value="com.swipethrough.TapArea"/>
+                    <ClassDefinition value="LongPressAreaShim"/>
+                    <ClassDefinition value="fl.livepreview.LivePreviewParent"/>
+                    <ClassDefinition value="fl.managers.IFocusManagerComponent"/>
+                    <ClassDefinition value="com.swipethrough.SliderArea"/>
+                    <ClassDefinition value="fl.managers.IFocusManagerGroup"/>
+                    <ClassDefinition value="DragAreaShim"/>
+                    <ClassDefinition value="fl.managers.FocusManager"/>
+                    <ClassDefinition value="fl.managers.IFocusManager"/>
+                    <ClassDefinition value="fl.core.InvalidationType"/>
+                    <ClassDefinition value="fl.transitions.TweenEvent"/>
+                    <ClassDefinition value="SwipeThroughArea"/>
+                    <ClassDefinition value="fl.motion.easing.Quadratic"/>
+                    <ClassDefinition value="fl.transitions.Tween"/>
+                    <ClassDefinition value="fl.controls.ButtonLabelPlacement"/>
+                    <ClassDefinition value="fl.managers.StyleManager"/>
+               </classDefinitions>
+          </Swc>
+          <Swc hashKey="nWO59pPwiR4ZjBflpRWl61" href="58YR7OR84U.swc">
+               <classDefinitions>
+                    <ClassDefinition value="TapAreaShim"/>
+                    <ClassDefinition value="fl.controls.LabelButton"/>
+                    <ClassDefinition value="com.swipethrough.GestureAreaBase"/>
+                    <ClassDefinition value="fl.controls.Button"/>
+                    <ClassDefinition value="com.swipethrough.LongPressArea"/>
+                    <ClassDefinition value="fl.events.ComponentEvent"/>
+                    <ClassDefinition value="PinchAreaShim"/>
+                    <ClassDefinition value="com.swipethrough.PinchArea"/>
+                    <ClassDefinition value="com.swipethrough.DragArea"/>
+                    <ClassDefinition value="com.swipethrough.ControlAreaBase"/>
+                    <ClassDefinition value="fl.core.UIComponent"/>
+                    <ClassDefinition value="fl.controls.BaseButton"/>
+                    <ClassDefinition value="SliderAreaShim"/>
+                    <ClassDefinition value="com.swipethrough.TapArea"/>
+                    <ClassDefinition value="LongPressAreaShim"/>
+                    <ClassDefinition value="fl.livepreview.LivePreviewParent"/>
+                    <ClassDefinition value="fl.managers.IFocusManagerComponent"/>
+                    <ClassDefinition value="com.swipethrough.SliderArea"/>
+                    <ClassDefinition value="fl.managers.IFocusManagerGroup"/>
+                    <ClassDefinition value="DragAreaShim"/>
+                    <ClassDefinition value="fl.managers.FocusManager"/>
+                    <ClassDefinition value="fl.managers.IFocusManager"/>
+                    <ClassDefinition value="fl.core.InvalidationType"/>
+                    <ClassDefinition value="fl.transitions.TweenEvent"/>
+                    <ClassDefinition value="SwipeThroughArea"/>
+                    <ClassDefinition value="fl.motion.easing.Quadratic"/>
+                    <ClassDefinition value="fl.transitions.Tween"/>
+                    <ClassDefinition value="fl.controls.ButtonLabelPlacement"/>
+                    <ClassDefinition value="fl.managers.StyleManager"/>
+               </classDefinitions>
+          </Swc>
+     </swcCache>
+</DOMDocument>

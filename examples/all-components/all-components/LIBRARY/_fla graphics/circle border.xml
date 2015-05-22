@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_fla graphics/circle border" itemID="555dcd26-000001bc" symbolType="graphic" lastModified="1432211268">
+  <timeline>
+    <DOMTimeline name="circle border">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="18">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!438 -439[620 -257 620 0!620 0[620 257 438 438!438 438[257 620 0 620!0 620[-257 620 -439 438!-439 438[-620 257 -620 0!-620 0[-620 -257 -439 -439!-439 -439[-257 -620 0 -620!0 -620[257 -620 438 -439"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
