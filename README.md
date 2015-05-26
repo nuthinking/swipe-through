@@ -20,7 +20,7 @@ Once the component is dragged on the timeline, fill the required fileds in the *
 
 Swipe Through components are invisible when the movie is running, but they can be shown briefly by double-clicking anywhere on the screen. To disable this functionality, add *hideArea = true;* at the root of the movie.
 
-To quickly understand how everything works, it recommended to have a look at the example project: *examples/all-components/all-components.xfl*
+To quickly understand how everything works, have a look at the example project: *examples/all-components/all-components.xfl*
 
 ## Components ##
 These are the parameters used by some of the components:
