@@ -3,6 +3,8 @@
 
 Combined with Adobe AIR it is an ideal tool to prototype touch user interfaces on mobile devices.
 
+![](https://github.com/nuthinking/swipe-through/blob/master/ide.png)
+
 ## Requirements ##
 They have been tested with Adobe Flash Professional CS6 and CC. But they should work also with older versions as long as they support ActionScript 3.0.
 
